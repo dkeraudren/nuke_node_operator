@@ -8,9 +8,9 @@
 ## WARNING! All changes made in this file will be lost when recompiling UI file!
 ################################################################################
 
-from PySide2.QtCore import *
-from PySide2.QtGui import *
-from PySide2.QtWidgets import *
+from cgev.ui.Qt.QtCore import *
+from cgev.ui.Qt.QtGui import *
+from cgev.ui.Qt.QtWidgets import *
 
 
 class Ui_Form(object):
